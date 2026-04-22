@@ -8,3 +8,8 @@
 - `data/` - License plate images
 - `code/` - Jupyter notebook
 - `report.pdf` - Project report
+
+## Note on File Previews
+Some images may not preview correctly on GitHub's web interface. 
+Please clone the repository or download the ZIP file to view all images locally.
+The Colab notebook will load all images correctly when opened.
